@@ -52,4 +52,4 @@ Si la base de datos se filtra, las contraseñas en texto plano quedan expuestas 
 - Soporta SQL estándar y transacciones, y es fácil de copiar y respaldar.
 
 ## GitHub Pages
-GitHub Pages solo aloja contenido estático, por lo que no puede ejecutar Flask. Se publica en Pages una página (`index.html`, o este README) con la documentación y las capturas; el servidor se ejecuta localmente.
+GitHub Pages solo aloja contenido estático, por lo que no puede ejecutar Flask. Se publica en Pages este README con la documentación y las capturas; el servidor se ejecuta localmente.
